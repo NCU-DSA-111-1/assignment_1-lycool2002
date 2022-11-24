@@ -12,7 +12,7 @@ example:2bit xor
 1.0, 1.0, 0.0 
 ```
 you can see the comment in DS.c file to know how to setting
-```c=
+```c
 int main(int argc, const char * argv[]) {
     
     FILE *fptr;
