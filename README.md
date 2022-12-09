@@ -54,4 +54,4 @@ int main(int argc, const char * argv[]) {
 ``` 
 
 ---
-更多詳細資訊請看詳細資訊請看/doc資料夾
+更多詳細資訊請看詳細資訊請看doc資料夾
